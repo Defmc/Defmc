@@ -1,6 +1,6 @@
 ## Salve <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Informações sobre meu github](https://github-readme-stats.vercel.app/api?username=defmc&theme=gotham&show_icons=true)
 
 Tag no Discord: Defmc#2687
 
@@ -10,3 +10,5 @@ Programo em:
 - C#
 - Python
 - GDScript
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defmc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
