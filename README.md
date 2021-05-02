@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Tag no Discord: Defmc#2687
+Discord User: Defmc#2687
 
 Main lang: <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 ----
