@@ -6,8 +6,8 @@ Main lang: <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat
 ----
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=defmc&theme=gotham&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=defmc&theme=gotham&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defmc&theme=gotham&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defmc&theme=gotham&layout=compact" />
 </a>
