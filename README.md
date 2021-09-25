@@ -1,4 +1,4 @@
-## Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 Discord User: Defmc#2687<br>
 Codewars User: <img align="center" src="https://www.codewars.com/users/Defmc/badges/large" width="256px">
@@ -19,11 +19,11 @@ Things I known a little about:
 <code><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="32px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="32px"></code>
 
-### My stats
+## <p align="center">My stats</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=defmc&theme=gotham&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=defmc&theme=gotham&show_icons=true" height="200" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defmc&theme=gotham&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defmc&theme=gotham&layout=compact" height="200"/>
 </a>
