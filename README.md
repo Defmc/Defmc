@@ -4,7 +4,7 @@ Discord User: Defmc#2687<br>
 Codewars User: <img align="center" src="https://www.codewars.com/users/Defmc/badges/large" width="256px">
 
 Learning about
-<img align="center" src="https://www.rust-lang.org/logos/rust-logo-32x32.png" width="24px"> Programming Langue in my
+<img align="center" src="https://www.rust-lang.org/logos/rust-logo-32x32.png" width="24px"> Programming Language in my
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" width="24px"> Linux ~~(BTW)~~.
 
 Things I known a little about:
