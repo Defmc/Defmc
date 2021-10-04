@@ -22,7 +22,7 @@ Things I known a little about:
 ## <p align="center">My stats</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=defmc&theme=gotham&show_icons=true" height="200" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=defmc&theme=gotham&show_icons=true" height="200" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defmc&theme=gotham&layout=compact" height="200"/>
