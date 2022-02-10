@@ -1,7 +1,6 @@
 ## Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 Discord User: Defmc#2687<br>
-Codewars User: <img align="center" src="https://www.codewars.com/users/Defmc/badges/large" width="256px">
 
 Learning about
 <img align="center" src="https://www.rust-lang.org/logos/rust-logo-32x32.png" width="24px"> Programming Language in my
