@@ -1,4 +1,8 @@
-## Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<p>
+  <h2 align="center">Hello, World! <br>
+  <img align="center" src="https://gpvc.arturio.dev/Defmc">
+  </h2>
+</p>
 
 Discord User: Defmc#2687<br>
 
@@ -21,8 +25,8 @@ Things I known a little about:
 ## <p align="center">My stats</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=defmc&theme=gotham&show_icons=true" height="150" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Defmc&theme=gotham&show_icons=true&count_private=true&include_all_commits=true" height="150" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defmc&theme=gotham&layout=compact" height="150"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defmc&theme=gotham&layout=compact&include_all_commits=true" height="150"/>
 </a>
