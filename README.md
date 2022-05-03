@@ -16,10 +16,9 @@ Things I known a little about:
 <code><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="28px"></code>
 <code><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/233_Node_Js-512.png" width="32px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png" width="32px"></code>
-<code><img src="https://image.flaticon.com/icons/png/512/919/919837.png" width="32px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" width="32px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Tux-Icon.png" width="32px"></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="32px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Tux-Icon.png" width="32px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" width="32px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="32px"></code>
 
 ## <p align="center">My stats</p>
