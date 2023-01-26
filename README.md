@@ -6,10 +6,6 @@
 
 Discord User: Defmc#2687<br>
 
-Learning about
-<img align="center" src="https://www.rust-lang.org/logos/rust-logo-32x32.png" width="24px"> Programming Language in my
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" width="24px"> Linux.
-
 Things I known a little about:
 <code><img src="https://www.rust-lang.org/logos/rust-logo-32x32.png" width="32px"></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="32px"></code>
