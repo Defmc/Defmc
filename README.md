@@ -1,6 +1,5 @@
 <p>
   <h2 align="center">Hello, World! <br>
-  <img align="center" src="https://gpvc.arturio.dev/Defmc">
   </h2>
 </p>
 
