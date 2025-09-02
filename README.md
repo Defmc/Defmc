@@ -4,21 +4,13 @@
   </h2>
 </div>
 
-I do some stuffs in Rust, Python, C among others there. I really like FOSS projects and maybe I can contribute to them.
+A passionate for low-level programming, an advocate for FOSS, and the opposition to ignorance.
 ```rs
 fn main() {
   assert_eq!(me.nick, "Defmc");
-  assert_eq!(me.favorite_anime, "Steins;Gate");
+  assert_eq!(me.favorite_series, "Steins;Gate");
   assert_eq!(me.favorite_manga, "Oyasumi Punpun");
-  assert_eq!(me.loves, &[RUST_L, C_L, HASKELL_L, FOSS]);
+  assert_eq!(me.lovers, &[RUST_L, C_L, HASKELL_L, FOSS, LOGIC]);
   todo!("learn more about low-level and functional programming theory");
-  assert_eq!(me.girlfriend.is_some()); // unreachable indeed...
 }
 ```
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Defmc&theme=transparent&show_icons=true&count_private=true&include_all_commits=true" width="40%">
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Defmc&theme=transparent&layout=compact&include_all_commits=true&hide=css" width="30%">
-</a>
