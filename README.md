@@ -4,7 +4,7 @@
   </h2>
 </div>
 
-A passionate for low-level programming, an advocate for FOSS, and the opposition to ignorance.
+A passionate for low-level programming, an advocate for FOSS, and the worst appreciator of jazz.
 ```rs
 fn main() {
   assert_eq!(me.nick, "Defmc");
